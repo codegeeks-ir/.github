@@ -1,4 +1,4 @@
-# codegeeks
+# codegeeks-ir
 
 ![codegeeks image](/images/codegeeks.png)
 
