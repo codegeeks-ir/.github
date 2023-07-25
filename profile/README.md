@@ -4,10 +4,8 @@
 
 Computer Engineering Community - Urmia University of Technology  
 
-[🔷  courses ](https://github.com/search?q=topic%3Acourse+org%3Acodegeeks-ir+fork%3Atrue&type=repositories) 
-[🔷  contents ](https://github.com/search?q=topic%3Acontent+org%3Acodegeeks-ir+fork%3Atrue&type=repositories) 
-[🔷  projects ](https://github.com/search?q=topic%3Aproject+org%3Acodegeeks-ir+fork%3Atrue&type=repositories)  
+[![projects](https://img.shields.io/badge/The_projects_we_wokred_on-projects-blue)](https://github.com/search?q=topic%3Aproject+org%3Acodegeeks-ir+fork%3Atrue&type=repositories)  
+[![docs](https://img.shields.io/badge/The_collaborative_content_we_wrote-docs-blue)](https://github.com/codegeeks-ir/docs)  
+[![courses](https://img.shields.io/badge/The_materials_we_gathered_for_each_course-courses-blue)](https://github.com/search?q=topic%3Acourse+org%3Acodegeeks-ir+fork%3Atrue&type=repositories)  
 
-[🔶  requirements ](https://github.com/codegeeks-ir/requirements) 
-[🔶  events ](https://github.com/codegeeks-ir/events) 
-[🔶  blog ](https://github.com/codegeeks-ir/blog) 
+ 
